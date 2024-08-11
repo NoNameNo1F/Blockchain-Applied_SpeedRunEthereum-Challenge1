@@ -7,7 +7,7 @@ import { GenericContractsDeclaration } from "~~/utils/scaffold-eth/contract";
 const deployedContracts = {
   31337: {
     ExampleExternalContract: {
-      address: "0x4ed7c70F96B99c776995fB64377f0d4aB3B0e1C1",
+      address: "0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82",
       abi: [
         {
           inputs: [],
@@ -33,7 +33,7 @@ const deployedContracts = {
       inheritedFunctions: {},
     },
     Staker: {
-      address: "0x322813Fd9A801c5507c9de605d63CEA4f2CE6c44",
+      address: "0x9A676e781A523b5d0C0e43731313A708CB607508",
       abi: [
         {
           inputs: [
@@ -45,19 +45,6 @@ const deployedContracts = {
           ],
           stateMutability: "nonpayable",
           type: "constructor",
-        },
-        {
-          anonymous: false,
-          inputs: [
-            {
-              indexed: false,
-              internalType: "string",
-              name: "msg",
-              type: "string",
-            },
-          ],
-          name: "Failure",
-          type: "event",
         },
         {
           anonymous: false,
@@ -132,6 +119,19 @@ const deployedContracts = {
         },
         {
           inputs: [],
+          name: "isExecutionCompleted",
+          outputs: [
+            {
+              internalType: "bool",
+              name: "",
+              type: "bool",
+            },
+          ],
+          stateMutability: "view",
+          type: "function",
+        },
+        {
+          inputs: [],
           name: "openForWithdraw",
           outputs: [
             {
@@ -169,7 +169,7 @@ const deployedContracts = {
           outputs: [
             {
               internalType: "uint256",
-              name: "time",
+              name: "",
               type: "uint256",
             },
           ],
@@ -182,6 +182,10 @@ const deployedContracts = {
           outputs: [],
           stateMutability: "payable",
           type: "function",
+        },
+        {
+          stateMutability: "payable",
+          type: "receive",
         },
       ],
       inheritedFunctions: {},
