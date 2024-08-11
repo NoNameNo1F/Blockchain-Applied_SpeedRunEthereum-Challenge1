@@ -1,3 +1,17 @@
+# 👀 Vercel URL:
+
+👉 [20127670-hcmus.vercel.app](https://20127670-hcmus-nonameno1fs-projects.vercel.app/)
+
+## :handshake: Contact
+
+:envelope: Nguyễn Cao Nam Vũ [:vietnam:] - [Linkedin](https://www.linkedin.com/in/vu-nguyen-a61a83235/) - NoNameNo1F@gmail.com
+
+Project Link: [https://github.com/NoNameNo1F/Blockchain-Applied_SpeedRunEthereum-Challenge1](https://github.com/NoNameNo1F/Blockchain-Applied_SpeedRunEthereum-Challenge1)
+
+For questions or inquiries, please contact:
+- Vu Nguyen Cao Nam: [NoNameNo1F@gmail.com](mailto:NoNameNo1F@gmail.com) || [vunguyencaonam@gmail.com](mailto:vunguyencaonam@gmail.com)
+- GitHub: [NoNameNo1F](https://github.com/NoNameNo1F/Blockchain-Applied_SpeedRunEthereum-Challenge1)
+
 # 🚩 Challenge 1: 🔏 Decentralized Staking App
 
 ![readme-1](https://github.com/scaffold-eth/se-2-challenges/assets/80153681/a620999a-a1ff-462d-9ae3-5b49ab0e023a)
